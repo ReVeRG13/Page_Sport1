@@ -1,0 +1,48 @@
+.showview[data-v-745ef87e] {
+    width: 250px;
+    height: 150px;
+    -o-object-fit: cover;
+    object-fit: cover
+}
+
+.recomended-item[data-v-745ef87e] {
+    cursor: pointer;
+    transition: transform .2s ease,filter .2s ease
+}
+
+.recomended-item[data-v-745ef87e]:hover {
+    filter: brightness(.9);
+    transform: scale(1.1)
+}
+
+.rec-tag[data-v-745ef87e] {
+    position: absolute;
+    top: 10%;
+    left: -8px
+}
+
+.sp-sport[data-v-745ef87e] {
+    position: absolute;
+    right: 3px;
+    bottom: 4px;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content
+}
+
+.recommended-row[data-v-745ef87e] {
+    width: -webkit-max-content!important;
+    width: -moz-max-content!important;
+    width: max-content!important
+}
+
+.recommend-scroll-pane[data-v-745ef87e] {
+    padding: 25px 0
+}
+
+.recommend-scroll-pane[data-v-745ef87e]::-webkit-scrollbar {
+    display: none
+}
